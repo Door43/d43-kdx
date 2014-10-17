@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[kdx:home|Door43 (kdx)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-kdx|d43-kdx repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-kdx/archive/master.zip|d43-kdx.zip]]
+
+**Recent Changes**
+{{changes>ns = kdx}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/kdx|Ethnologue data]]
+
